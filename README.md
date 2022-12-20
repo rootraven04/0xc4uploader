@@ -1,8 +1,9 @@
 # 0xc4uploader
+
 Secure SHELL uploader (only can work with 0xc4.php)
 
 - Using GET method so it's hidden
-- Using 1 name, so all the filenames except **0xc4.php** can't be uploaded
+- Using 1 name, so all of the files except **0xc4.php** can't be uploaded
 
 
 ***How to access:***
